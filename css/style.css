@@ -1468,7 +1468,7 @@ input[type=text] {
 }
 @media (max-width:610px) {
   .start-instructor-box {
-    display: inline-block;
+    display: grid;
     justify-content: start
   }
   .start-instructor-content {
