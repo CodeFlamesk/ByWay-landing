@@ -1471,17 +1471,17 @@ input[type=text] {
     display: grid;
     justify-content: start
   }
-  .start-instructor-content {
-    justify-content: start;
-    gap: 0
-  }
   .start-instructor-content__img {
     display: none;
     width: 0;
     height: 0
   }
+  .start-instructor-content {
+    justify-content: start;
+    gap: 0!important
+  }
   .start-instructor-content__imgs {
-    display: none
+    display: none!important
   }
 }
 @media (max-width:68.75em) {
