@@ -1,4 +1,4 @@
-# Online Courses Landing Page
+# ByWay Landing Page
 
 Link: https://codeflamesk.github.io/ByWay-landing/
 
